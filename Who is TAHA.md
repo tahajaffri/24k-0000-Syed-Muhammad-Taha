@@ -1,6 +1,6 @@
 # About the developer
 **Taha Jaffri**\
-*BSCS IBA "28*\
+*BSCS FAST NUCES "28*\
 ***An aspiring software engineer!***
 
 
